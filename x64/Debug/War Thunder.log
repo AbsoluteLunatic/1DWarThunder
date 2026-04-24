@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\unfunny\C\War Thunder\Game.cpp(14,2): warning C4091: 'typedef ': ignored on left of 'GameObject' when no variable is declared
+  War Thunder.vcxproj -> D:\unfunny\C\War Thunder\x64\Debug\War Thunder.exe
